@@ -1,6 +1,6 @@
-Aulas de Estrutura de Dados.
+# Aulas de Estrutura de Dados.
 
-Curso superior de ciência de dados e inteligência artificial
+## Curso superior de ciência de dados e inteligência artificial
 
 
 Algoritimos
