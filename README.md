@@ -19,3 +19,5 @@ Lista Encadeada
 Prioridade
 
 Árvore de Busca Binária
+
+AVL
