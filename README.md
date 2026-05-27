@@ -4,11 +4,18 @@
 
 
 ###### Categorias
-Algoritimos
+Algoritmos
+
 BigO
+
 Ordenação
+
 Busca
+
 Deque
+
 Lista Encadeada
+
 Prioridade
+
 Árvore de Busca Binária
