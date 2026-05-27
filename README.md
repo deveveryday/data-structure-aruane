@@ -3,6 +3,7 @@
 ## Curso superior de ciência de dados e inteligência artificial
 
 
+###### Categorias
 Algoritimos
 BigO
 Ordenação
